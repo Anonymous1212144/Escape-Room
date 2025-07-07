@@ -17,7 +17,7 @@ NOTE: The redstone mechanics are quite interconnected, requiring you to solve th
 - Skeletons, while shooting, will always move forward when they're in some blocks
 - Figure out how withers like to attack you and the range of sweep attacks
 
-## Other Into/Hints (minor spoilers)
+## Other Info/Hints (minor spoilers)
 - Thea is just a companion and is not used in the intended solution
 - In the iron/pumpkin room, 2 of them are not needed, but you can use them for a future room for fun lol
 - The signs are just to help you and do not need to be followed
