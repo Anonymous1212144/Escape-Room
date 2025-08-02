@@ -3,7 +3,7 @@
 Java Edition 1.21.7
 
 ## Info
-There's a book inside that provides some more info, but you win by destroying the grass block (you'll know it when you see it). The intended solution can do it in around 15 minutes, and any required rng is only time-related (e.g. waiting for a plant to grow)
+There's a book inside that provides some more info, but you win by finding the Netherite Shovel. The intended solution can do it in around 15 minutes, and any required rng is only time-related (e.g. waiting for a plant to grow)
 
 This is a remake of https://youtu.be/gv4wdVt1YuQ, where I added a few new rooms and many rooms were remade so it actually has some puzzle elements (hopefully). That also made this room quite a bit harder lol
 
